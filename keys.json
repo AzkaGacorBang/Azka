@@ -12,12 +12,12 @@
       "tier": "developer",
       "name": "azka",
       "limit": 999,
-      "hari_ini": 10,
-      "last_reset": "2026-10-01"
+      "hari_ini": 0,
+      "last_reset": "2026-10-02"
     }
   },
   "maintenance": {
-    "aktif": true,
+    "aktif": false,
     "pesan": "Update terbaru ya",
     "eta": "",
     "diaktifkan": "2026-10-01T07:38:18.599Z"
